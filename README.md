@@ -23,6 +23,7 @@ Interactive Filters
 Outlet Location Type
 Item Type
 Outlet Size
+
 🎯 Objective
 
 The main objective of this dashboard is to:
@@ -30,18 +31,19 @@ The main objective of this dashboard is to:
 Analyze sales trends and performance
 Identify high-performing products and outlets
 Support data-driven business decisions
+
 🛠️ Tools Used
 Power BI
 Data Visualization Techniques
 Data Cleaning & Transformation
-📌 Use Case
 
+📌 Use Case
 This dashboard can be used by:
 
-Business Analysts
-Retail Managers
-Sales Teams
+- Business Analysts
+- Retail Managers
+- Sales Teams
 
 to monitor performance, optimize inventory, and improve overall sales strategy.
 
-<img src="dashboard.png" alt="blinkit_dashboard.png" width="700"/>
+<img src="dashboard.png" alt="Blinkit_dashboard.png" width="700"/>
