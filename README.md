@@ -46,4 +46,4 @@ This dashboard can be used by:
 
 to monitor performance, optimize inventory, and improve overall sales strategy.
 
-<img src="dashboard.png" alt="Blinkit_dashboard.png" width="700"/>
+<img src="Blinkit_dashboard.png" alt="Blinkit_Dashboard.png" width="700"/>
